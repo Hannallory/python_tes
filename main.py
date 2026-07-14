@@ -1,6 +1,6 @@
 def in_autotests_we_trust(a, b):
     if a == b:
-        print('Passou2')
+        print('Passou')
     else:
         print('Falhou2')
 
